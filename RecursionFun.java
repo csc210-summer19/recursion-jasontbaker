@@ -11,7 +11,7 @@
  * 
  * We will not be using code coverage for points.
  *
- * @author Rick Mercer and Your Name
+ * @author Rick Mercer and Jason Baker
  */
 public class RecursionFun {
 

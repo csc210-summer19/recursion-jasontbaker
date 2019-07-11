@@ -1,4 +1,6 @@
 /**
+ * Name: Jason Baker
+ * 
  * ObstacleCourse: A type that represents an obstacle course from which to
  * escape. This does not find the shorted path. Because of this, we must always
  * assume there is only one exit.
